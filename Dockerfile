@@ -1,4 +1,4 @@
-FROM node:19.0-slim
+FROM node:19.6-bullseye-slim
 
 ENV RUNNING_IN_DOCKER true
 
